@@ -1,1 +1,1 @@
-This projects uses timeseries with machinelearning,we are predicting future possibility based on weather components variables provided in the dataset.
+This projects uses timeseries with machinelearning,we are predicting future possibility based on weather components variables provided in the dataset.on conclusion #since predicted  mean is lower at start of 2017 and  increases  later on ,we can recommend to the people of delhi to wear light clothes  from mid february to  april and  heavy clothes at the beginning  month to mid february
